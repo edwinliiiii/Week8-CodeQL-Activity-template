@@ -1,3 +1,9 @@
+/**
+ * @description Find functions that are not public
+ * @kind problem
+ * @id javascript/not-public-methods
+ * @problem.severity recommendation
+ */
 import javascript
 
 predicate isPublicMethod(Function f) {

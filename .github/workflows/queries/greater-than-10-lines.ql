@@ -1,3 +1,9 @@
+/**
+ * @description Find functions greater than 10 lines
+ * @kind problem
+ * @id javascript/greater-than-10-lines
+ * @problem.severity recommendation
+ */
 import javascript
 
 from Function f
