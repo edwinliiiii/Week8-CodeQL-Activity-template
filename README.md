@@ -1,6 +1,6 @@
 # Week 12 Activity - Static Analysis using CodeQL
 
-For instructions for Week 12 Activity, refer to [Instructions.md](./Instructions.md).
+For instructions for Week 8 Activity, refer to [Instructions.md](./Instructions.md).
 
 Continue reading for generic create-react-app commands. 
 Run `npm install` now if you haven't already. 
