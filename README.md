@@ -1,4 +1,4 @@
-# Week 12 Activity - Static Analysis using CodeQL
+# Week 8 Activity - Static Analysis using CodeQL
 
 For instructions for Week 8 Activity, refer to [Instructions.md](https://github.com/neu-cs4530-fall2024/Week8-CodeQL-Activity-template/blob/master/instructions/Instructions.md).
 
